@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
-#include "hashtable.cpp"
-#include "chain.cpp"
+#include "doubleHashTable.cpp"
+#include "chainHashTable.cpp"
 
 int main () {
     string cmd  = "";
